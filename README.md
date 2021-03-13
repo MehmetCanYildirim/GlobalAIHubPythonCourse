@@ -1,7 +1,7 @@
 # GAIH Student Repo 
 ![](img/newlogo.png)
 
-**Course Date:** 08.03.2021 \n 
+**Course Date:** 08.03.2021 
 **Name:** Mehmet Can 
 **Surname:**  YILDIRIM  
 **Email:** mehmetcanyildirimmm@gmail.com  
